@@ -32,3 +32,4 @@ console.log("accountState = ", accountState);
 //console.log(accountName);
 //It will throw ReferenceError because accountName is not declared
 
+//const Value; //declaration must be initialized.
